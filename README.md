@@ -1,1 +1,1 @@
-# Forecasting-with-LSTM-Rapids
+# Forecasting with LSTM using Rapids ETL
